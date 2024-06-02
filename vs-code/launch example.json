@@ -1,0 +1,19 @@
+{
+  // Usare IntelliSense per informazioni sui possibili attributi.
+  // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+  // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "PROJECT_NAME_HERE",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "PATH_TO_MAIN_HERE",
+      "projectName": "LAST_PACKAGE_BEFORE_CLASS_NAME_HERE",
+      "args": "--spring.profiles.active=locale",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    }
+  ]
+}

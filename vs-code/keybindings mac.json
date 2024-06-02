@@ -1,0 +1,27 @@
+// Inserire in questo file i tasti di scelta rapida per eseguire l'override di quelli predefiniti
+[
+  {
+    "key": "alt+f10",
+    "command": "java.clean.workspace"
+  },
+  {
+    "key": "cmd+y",
+    "command": "redo"
+  },
+  {
+    "key": "shift+cmd+y",
+    "command": "-redo"
+  },
+  {
+    "key": "cmd+q",
+    "command": "-workbench.action.quit"
+  },
+  {
+    "key": "cmd+q",
+    "command": "extension.switchtemplate"
+  },
+  {
+    "key": "shift+alt+o",
+    "command": "-extension.switchtemplate"
+  },
+]

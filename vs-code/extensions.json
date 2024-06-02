@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "aureliaeffect.aurelia",
+    "alphabotsec.vscode-eclipse-keybindings",
+    "dbaeumer.vscode-eslint",
+    "htmlhint.vscode-htmlhint",
+    "lokalise.i18n-ally",
+    "ms-ceintl.vscode-language-pack-it",
+    "alefragnani.project-manager",
+    "vscode-icons-team.vscode-icons",
+    "ms-vscode-remote.remote-containers",
+    "dotjoshjohnson.xml",
+    "angular.ng-template",
+    "infinity1207.angular2-switcher",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "postman.postman-for-vscode"
+  ]
+}

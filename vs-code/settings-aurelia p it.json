@@ -28,7 +28,7 @@
         "settings": {
           "foreground": "#6b6b6b"
         }
-      },
+      }
     ]
   },
   "editor.unicodeHighlight.ambiguousCharacters": false,
