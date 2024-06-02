@@ -1,0 +1,16 @@
+> ls /Applications
+Caffeine
+Hidden Bar
+Maccy
+Menu Bar Calendar
+
+
+> brew list
+Formulae
+git
+maven
+openjdk
+
+Casks
+caffeine
+maccy
