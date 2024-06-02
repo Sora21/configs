@@ -1,0 +1,190 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Consolas ligaturized v3",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Tag brackets",
+        "scope": [
+          "punctuation.definition.tag"
+        ],
+        "settings": {
+          "foreground": "#6b6b6b"
+        }
+      },
+    ]
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": false
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": true,
+  "files.exclude": {
+    "**/.git": false,
+    "**/.gitignore": true,
+    "**/.jazzignore": true,
+    "**/.svn": false,
+    ".babelrc.js": true,
+    ".dockerignore": true,
+    ".editorconfig": true,
+    ".eslintignore": true,
+    ".jshintrc": true,
+    ".npmrc": true,
+    ".project": true,
+    ".vscode": true,
+    "buildWebProject.xml": true,
+    "dist_OLD": true,
+    "docker-compose.yml": true,
+    "jsconfig.json": true,
+    "mock/**": true,
+    "nginx.conf": true,
+    "node_modules": true,
+    "node_modules.zip": true,
+    "package-lock.json": true,
+    "publish.sh": true,
+    "web/images/flag/de.svg": true
+  },
+  "files.insertFinalNewline": true,
+  "git.enabled": false,
+  "git.terminalAuthentication": false,
+  "github.gitAuthentication": false,
+  "html.hover.documentation": false,
+  "html.hover.references": false,
+  "i18n-ally.displayLanguage": "en",
+  "i18n-ally.enabledFrameworks": [
+    "i18next"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "projectManager.sortList": "Name",
+  "search.quickOpen.includeHistory": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "task.problemMatchers.neverPrompt": {
+    "shell": true
+  },
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.integrated.fontFamily": "Cascadia Mono",
+  "terminal.integrated.profiles.windows": {
+    "API Server": {
+      "args": [
+        "-NoLogo"
+      ],
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    "PowerShell": {
+      "args": [
+        "-NoLogo"
+      ],
+      "icon": "terminal-powershell",
+      "source": "PowerShell"
+    }
+  },
+  "terminal.integrated.scrollback": 10000,
+  "update.mode": "start",
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.commandCenter": true,
+  "window.titleBarStyle": "custom",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#333842",
+    "activityBar.foreground": "#d7dae0",
+    "activityBarBadge.background": "#528bff",
+    "activityBarBadge.foreground": "#d7dae0",
+    "badge.background": "#528bff",
+    "badge.foreground": "#d7dae0",
+    "button.background": "#4d78cc",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#6087cf",
+    "diffEditor.insertedTextBackground": "#00809b33",
+    "dropdown.background": "#353b45",
+    "dropdown.border": "#181a1f",
+    "editor.background": "#282c34",
+    "editor.findMatchHighlightBackground": "#528bff3d",
+    "editor.foreground": "#abb2bf",
+    "editor.lineHighlightBackground": "#99bbff0a",
+    "editor.selectionBackground": "#3e4451",
+    // "contrastBorder": "#30303b",
+    // "statusBar.background": "#8f343436", //8f3434
+    // "statusBar.noFolderBackground": "#212121",
+    // "statusBar.debuggingBackground": "#263238",
+    "editorBracketHighlight.foreground1": "#ffd700", //Gold
+    "editorBracketHighlight.foreground2": "#ff8c00", //Dark Orange
+    "editorBracketHighlight.foreground3": "#d43eaf", //ex Light Sky Blue
+    "editorCursor.foreground": "#528bff",
+    "editorGroup.border": "#181a1f",
+    "editorGroupHeader.tabsBackground": "#21252b",
+    "editorHoverWidget.background": "#21252b",
+    "editorHoverWidget.border": "#181a1f",
+    "editorIndentGuide.activeBackground": "#626772",
+    "editorIndentGuide.background": "#abb2bf26",
+    "editorLineNumber.activeForeground": "#abb2bf",
+    "editorLineNumber.foreground": "#636d83",
+    "editorRuler.foreground": "#abb2bf26",
+    "editorSuggestWidget.background": "#21252b",
+    "editorSuggestWidget.border": "#181a1f",
+    "editorSuggestWidget.selectedBackground": "#2c313a",
+    "editorWhitespace.foreground": "#abb2bf26",
+    "editorWidget.background": "#21252b",
+    "editorWidget.border": "#3a3f4b",
+    "extensionButton.prominentBackground": "#2ba143",
+    "extensionButton.prominentHoverBackground": "#37af4e",
+    "focusBorder": "#528bff",
+    "input.background": "#1b1d23",
+    "input.border": "#181a1f",
+    "list.activeSelectionBackground": "#2c313a",
+    "list.activeSelectionForeground": "#d7dae0",
+    "list.focusBackground": "#2c313a",
+    "list.highlightForeground": "#d7dae0",
+    "list.hoverBackground": "#2c313a66",
+    "list.inactiveSelectionBackground": "#2c313a",
+    "list.inactiveSelectionForeground": "#d7dae0",
+    "peekView.border": "#528bff",
+    "peekViewEditor.background": "#1b1d23",
+    "peekViewResult.background": "#21252b",
+    "peekViewResult.selectionBackground": "#2c313a",
+    "peekViewTitle.background": "#1b1d23",
+    "pickerGroup.border": "#528bff",
+    "scrollbarSlider.activeBackground": "#747d9180",
+    "scrollbarSlider.background": "#4e566680",
+    "scrollbarSlider.hoverBackground": "#5a637580",
+    "sideBar.background": "#21252b",
+    "sideBarSectionHeader.background": "#333842",
+    "statusBar.background": "#21252b",
+    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.foreground": "#9da5b4",
+    "statusBar.noFolderBackground": "#21252b",
+    "statusBarItem.hoverBackground": "#2c313a",
+    "tab.activeBackground": "#282c34",
+    "tab.activeForeground": "#d7dae0",
+    "tab.border": "#181a1f",
+    "tab.inactiveBackground": "#21252b",
+    "titleBar.activeBackground": "#21252b",
+    "titleBar.activeForeground": "#9da5b4",
+    "titleBar.inactiveBackground": "#21252b",
+    "titleBar.inactiveForeground": "#9da5b4"
+  },
+  "workbench.colorTheme": "Aurelia Dark+",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "newUntitledFile"
+}
